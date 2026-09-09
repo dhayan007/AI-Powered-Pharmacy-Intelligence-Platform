@@ -1,0 +1,17 @@
+# Prevent accidental commits of real code or data into the PUBLIC repo
+*.py
+*.sql
+*.env
+*.db
+*.sqlite3
+requirements.txt
+config/
+secrets/
+data/
+__pycache__/
+*.pyc
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/
