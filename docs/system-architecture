@@ -1,0 +1,21 @@
+                PHARMACY DATA
+                     │
+        ┌────────────┼────────────┐
+        ▼            ▼            ▼
+     Sales       Inventory     Suppliers
+        │            │            │
+        └────────────┼────────────┘
+                     ▼
+                PostgreSQL
+                     │
+                     ▼
+              Data Processing
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+      Analytics   Predictive   AI Layer
+      & KPIs      Models       Assistant
+          │          │          │
+          └──────────┼──────────┘
+                     ▼
+              Business Insights
