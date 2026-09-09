@@ -57,16 +57,7 @@ No SQL knowledge required on the user's end, and the assistant tracks conversati
 
 ---
 
-## Demo
 
-**Dashboard & core functionality**
-[Add: embed `demo/dashboard-demo.mp4` here, or link if hosted elsewhere]
-
-**AI assistant in action**
-[Add: embed `demo/chatbot-demo.mp4` here, or link if hosted elsewhere]
-
-**Screenshots**
-See [`screenshots/`](screenshots/) for interface previews of the dashboards, inventory views, and assistant.
 
 ---
 
