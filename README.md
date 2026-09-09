@@ -183,27 +183,29 @@ This is a self-built, self-tested project — there hasn't been a formal evaluat
 
 ## Repository contents
 
+```
 Ai-Powered-Pharmacy-Intelligence-Platform/
-├── README.md                      
-├── LICENSE.md                     
-├── .gitignore                     
+├── README.md
+├── LICENSE.md
+├── .gitignore
 │
 ├── docs/
-│   ├── architecture.svg           
-│   ├── ai-pipeline.svg            
-│   └── design-notes.md            
+│   ├── architecture.svg
+│   ├── ai-pipeline.svg
+│   └── design-notes.md
 │
-├── screenshots/                   
-│   ├── sales-overview-Dashboard.png
-│   ├── inventory-alert-Dashbaord.png
-│   ├── Billing.png
-│   ├── Inventory.png
-│   ├── Cashflow-Dashboard.png
-│   └── chatbot.png       
+├── screenshots/
+│   ├── sales-overview-dashboard.png
+│   ├── inventory-alerts.png
+│   ├── billing.png
+│   ├── inventory.png
+│   ├── cashflow-dashboard.png
+│   └── chatbot.png
 │
 └── demo/
     ├── dashboard-demo.mp4
     └── chatbot-demo.mp4
+```
 
 ## About this project
 
