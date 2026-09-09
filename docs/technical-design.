@@ -1,0 +1,29 @@
+# Technical Design
+
+## 1. Data Layer
+
+The platform uses a relational database to store pharmacy
+operational data including products, inventory, sales,
+customers, suppliers and purchase orders.
+
+## 2. Analytics Layer
+
+Operational data is transformed into analytical metrics
+for understanding sales, inventory movement, product
+performance and cash flow.
+
+## 3. Predictive Intelligence
+
+Historical data can be used to identify inventory patterns,
+reorder requirements and potential expiry risks.
+
+## 4. AI Assistant
+
+The AI assistant enables natural-language interaction
+with pharmacy data through a controlled natural-language
+to SQL pipeline.
+
+## 5. Data Validation
+
+Generated database queries are validated before execution
+to prevent unsupported or unsafe operations.
