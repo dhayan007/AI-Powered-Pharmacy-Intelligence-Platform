@@ -197,9 +197,10 @@ Ai-Powered-Pharmacy-Intelligence-Platform/
 ├── .gitignore
 │
 ├── docs/
-│   ├── architecture.svg
-│   ├── ai-pipeline.svg
-│   └── design-notes.md
+│   ├── system-architecture.png
+│   ├── ai-assistant-pipeline.png
+│   ├── data-pipeline.png
+│   └── technical-design.md
 │
 ├── screenshots/
 │   ├── sales-overview-dashboard.png
