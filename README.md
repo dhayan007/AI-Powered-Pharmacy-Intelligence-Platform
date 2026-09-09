@@ -55,7 +55,6 @@ A conversational layer that lets users ask operational questions in natural lang
 
 No SQL knowledge required on the user's end, and the assistant tracks conversation context — a follow-up like *"what about yesterday?"* is understood relative to the prior question, not treated as a standalone query. See the pipeline below for how that's handled.
 
----
 
 
 
