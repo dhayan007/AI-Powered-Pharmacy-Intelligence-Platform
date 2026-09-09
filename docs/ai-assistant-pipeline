@@ -1,0 +1,47 @@
+User Question
+      │
+      ▼
+Conversation Memory
+      │
+      ▼
+Intent Classification
+      │
+   ┌──┼──┐
+   ▼  ▼  ▼
+  SQL RAG CHAT
+   │
+   ▼
+Follow-up Detection
+      │
+      ▼
+Question Rewriting
+      │
+      ▼
+Prompt Builder
+      │
+      ▼
+     LLM
+      │
+      ▼
+SQL Generation
+      │
+      ▼
+ SQL Cleaner
+      │
+      ▼
+SQL Validator
+      │
+      ▼
+ PostgreSQL
+      │
+      ▼
+Response Builder
+      │
+      ▼
+     LLM
+      │
+      ▼
+Natural Language Answer
+      │
+      ▼
+Conversation Memory
