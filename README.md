@@ -17,16 +17,23 @@
 
 ---
 
-## Problem
+## Problem Statement
 
-Pharmacies generate constant operational data — sales, inventory movements, supplier transactions, purchase orders — but it typically stays siloed across systems and spreadsheets instead of driving decisions. The result is familiar to anyone who's worked pharmacy or retail ops:
+Pharmacies generate significant amounts of operational data through daily activities such as sales, inventory updates, supplier transactions, and purchase orders.
 
-- Stockouts on fast-moving products because nobody caught the trend in time
-- Inventory written off because it expired before anyone flagged it
-- Purchase orders based on gut feel rather than actual sales/demand data
-- No fast way to answer "how are we doing?" without pulling numbers manually
+However, this data is often distributed across operational systems and is not effectively used for decision-making.
 
-This platform was built to close that gap — combining the operational system of record with an analytics and AI layer on top of it, so the data pharmacies already generate actually gets used.
+ Common challenges include:
+
+- Difficulty identifying products that are running out of stock
+- Expiry-related inventory losses
+- Manual inventory monitoring
+- Limited visibility into sales and inventory performance
+- Difficulty analysing large volumes of operational data
+- Inefficient purchase-order planning
+- Limited access to data-driven business insights
+
+This project addresses these challenges by combining operational management with analytics and intelligent decision-support capabilities.
 
 ---
 
